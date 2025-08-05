@@ -29,7 +29,8 @@ See: [`prompt.txt`](./prompt.txt)
 ## 📸 Screenshots
 | Desktop View                                                                                                                | Mobile View                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/1f823bee-eb74-4a63-9439-4e4694a1e7a9" alt="Mobile View" width="300"/> | <img src="https://github.com/user-attachments/assets/fa9c99e8-7efe-4bd3-9188-ca484d7157f9" alt="Desktop View" width="300"/> |
+| <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/f1cae4aa-8097-4905-a0b6-1d4a02d71d5e" />| <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/a1b56f17-02c4-4028-a0af-d0c638281395" />
+ 
 
 
 ## 📂 Database Structure
