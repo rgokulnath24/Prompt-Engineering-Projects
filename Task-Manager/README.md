@@ -46,9 +46,7 @@ See: [`prompt.txt`](./prompt.txt)
 
 | Desktop View                                                                                                           | Mobile View                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c1b4a8b4-8ae7-4bcb-bdae-cf6450316af9" />
- |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a9274878-2990-43e1-a063-943724e84667" />
-|
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c1b4a8b4-8ae7-4bcb-bdae-cf6450316af9" /> |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a9274878-2990-43e1-a063-943724e84667" />
 
 ---
 
