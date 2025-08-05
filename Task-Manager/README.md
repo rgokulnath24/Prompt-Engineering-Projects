@@ -1,88 +1,74 @@
-# 📝 To-Do List Web App (PHP + MySQL + Bootstrap)
+#  To-Do List Web App (AI-Prompt Engineered)
 
-A simple, clean and responsive To-Do List web application built using PHP, MySQL, and Bootstrap 5. This app allows users to manage daily tasks efficiently — add, complete, or delete tasks easily with a modern UI.
 
-## 🚀 Features
+A clean, responsive To-Do List Web Application generated using a single prompt. The app allows users to manage tasks with options to add, complete, and delete them. Fully built using PHP, MySQL, Bootstrap 5, and includes responsive support for mobile devices.
 
-- ✅ Add tasks with a title
-- 📋 Display all tasks with completion status
-- 🗑️ Delete tasks
-- 📦 Tasks stored in a MySQL database
-- 📱 Mobile responsive design using Bootstrap 5
-- 💡 Task title wraps properly on small screens
-- 💾 Secure DB connection and prepared queries
+---
 
-## 🛠️ Tech Stack
+## 🔧 Technologies Used
 
-- PHP (Core)
+- HTML, CSS (Bootstrap 5)
+- PHP (Backend)
 - MySQL (Database)
-- Bootstrap 5 (Frontend)
-- HTML, CSS, JavaScript
+- JavaScript (optional)
+- Prompt Engineering (for generation)
 
-## 📁 Project Structure
+---
 
-```
-📂 todo-app/
-├── index.php
-├── add_task.php
-├── delete_task.php
-├── update_task.php
-├── includes/
-│   ├── db.php
-│   ├── header.php
-│   └── footer.php
-├── css/
-│   └── styles.css
-├── js/
-│   └── scripts.js (optional)
-└── README.md
-```
+## 🧪 Features
 
-## 🧠 How It Works
+- ✅ Add new tasks
+- ✏️ Mark tasks as complete/incomplete
+- 🗑️ Delete tasks from the list
+- 📦 Store tasks in MySQL database
+- 📱 Responsive design for mobile, tablet, desktop
+- 🧼 Clean UI with Bootstrap 5 styling
+- 🧠 AI-generated code with proper file separation
+- 🎯 Task title wraps properly on small screens
 
-- The main task list is rendered from the database.
-- Each task includes a checkbox to toggle its completed state.
-- Tasks can be added or removed using form inputs.
-- Long task titles are automatically wrapped using responsive CSS.
+---
 
+## 🧠 Prompt Used
 
-## 🗄️ Database Structure
+See: [`prompt.txt`](./prompt.txt)
 
-Table: `tasks`
+---
 
-```sql
-CREATE TABLE tasks (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  title VARCHAR(255) NOT NULL,
-  is_completed BOOLEAN DEFAULT 0,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-```
+## ⏱️ Estimated Time to Build
 
-Sample Insert:
+- Prompt creation: 10–15 mins  
+- Code generation via AI: 2–3 mins  
+- Testing & layout adjustments: 20–30 mins  
+- Total Time: ~45–60 minutes
 
-```sql
-INSERT INTO tasks (title, is_completed) VALUES ('Sample Task 1', 0);
-```
 
 ## 📸 Screenshots
 
-![Todo UI](screenshots/screenshot1.png)
-![Responsive View](screenshots/screenshot2.png)
+| Desktop View                                                                                                           | Mobile View                                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c1b4a8b4-8ae7-4bcb-bdae-cf6450316af9" />
+ |<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/a9274878-2990-43e1-a063-943724e84667" />
+|
 
-## 🧠 Prompt Engineering Info
+---
 
-This project was built using a prompt engineered for AI (ChatGPT 4). Prompt focused on creating a structured, full-stack CRUD web app with proper responsiveness and clean code organization.
+## 📂 Database Structure
 
-## 📌 Tags (Add to GitHub repo)
+Table: `tasks`
 
-`#PHP` `#MySQL` `#Bootstrap` `#ToDoApp` `#CRUD` `#PromptEngineering` `#FullStack` `#BeginnerProject`
+| Field        | Type           | Description                         |
+|--------------|----------------|-------------------------------------|
+| id           | INT (auto)     | Primary key                         |
+| title        | VARCHAR(255)   | Task title (required)               |
+| is_completed | BOOLEAN         | Task completion status (0 or 1)     |
+| created_at   | TIMESTAMP       | Timestamp when the task was created |
 
-## 🤝 Contributing
 
-Pull requests are welcome! Feel free to submit issues or suggestions.
 
-## 📃 License
+## 🧠 Prompt Type
 
-This project is open-sourced under the MIT License.
+- Type: Full-stack Functional Prompt  
+- Use Case: One-shot AI-assisted Code Generation  
+- Model Used: ChatGPT 4 (o4)
 
+---
