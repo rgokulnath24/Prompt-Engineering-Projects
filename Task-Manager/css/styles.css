@@ -1,0 +1,15 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .list-group-item {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  border-color: #333;
+}
+/* styles.css */
+.task-title {
+  word-break: break-word;
+  white-space: normal;
+}

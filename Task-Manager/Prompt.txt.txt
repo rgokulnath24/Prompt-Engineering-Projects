@@ -1,0 +1,15 @@
+🟢 Prompt:
+
+Create a complete, responsive To-Do List Web App using PHP, MySQL, Bootstrap 5, and JavaScript. The app should support the following:
+
+1. Users can add tasks with a title and optional description.
+2. Users can mark tasks as complete/incomplete using a checkbox.
+3. Users can delete tasks.
+4. Tasks should be saved in a MySQL database.
+5. Long task titles must wrap properly on mobile.
+6. The frontend should be mobile responsive using Bootstrap 5.
+7. Include validation to prevent empty task submissions.
+8. Provide a clean user interface with modern buttons and cards.
+9. Separate the code into header.php, footer.php, db.php, etc.
+10. Also provide the MySQL DB structure and sample SQL INSERTs.
+11. Deliver full HTML, CSS, PHP, and SQL code ready to run on XAMPP or localhost.
