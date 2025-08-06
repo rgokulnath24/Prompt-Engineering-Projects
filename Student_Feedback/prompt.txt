@@ -1,0 +1,12 @@
+🟢 Prompt:
+
+Generate a responsive PHP Feedback Submission Form with:
+- Fields: name, email, rating (1 to 5), comments
+- Client-side JavaScript validation:
+  - Name must allow only letters and exactly one space
+  - Email must follow standard format
+  - Rating must be between 1 to 5
+- AJAX duplicate check for name from MySQL
+- Clean Bootstrap 5 layout
+- PHP backend to insert data into MySQL
+- Give complete code with database structure
