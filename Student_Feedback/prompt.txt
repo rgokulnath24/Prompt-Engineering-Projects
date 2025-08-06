@@ -1,6 +1,7 @@
 🟢 Prompt:
 
 Generate a responsive PHP Feedback Submission Form with:
+
 - Fields: name, email, rating (1 to 5), comments
 - Client-side JavaScript validation:
   - Name must allow only letters and exactly one space
