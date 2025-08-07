@@ -1,0 +1,47 @@
+Build a complete web project for a "Mood Generator" app with the following requirements:
+
+🔷 Project Summary:
+Users select their current mood (e.g., happy, sad, motivated, angry) from a dropdown and receive a random inspirational quote related to that mood.
+
+🔷 Tech Stack:
+- Frontend: HTML, CSS (plain or Bootstrap), JavaScript (optional)
+- Backend: PHP
+- Database: MySQL
+
+🔷 Functional Requirements:
+- User selects a mood from a dropdown
+- On form submit, the app fetches a random quote for the selected mood from the database
+- The quote is displayed below the form
+- Form must validate the input on both frontend and backend
+- Use AJAX or fetch to submit the form without reloading the page
+
+🔷 File Structure:
+Generate all files clearly with the correct filenames and content:
+- index.html
+- assets/css/style.css
+- assets/js/script.js
+- backend/db.php
+- backend/process.php
+- sql/schema.sql
+
+🔷 Validation:
+- Required validation for mood selection
+- Sanitize inputs in PHP to prevent SQL injection
+
+🔷 Styling:
+- Clean, minimal, responsive layout
+- Center the form vertically and horizontally
+- Make it mobile-friendly
+
+🔷 Database Table:
+Table Name: `quotes`
+Columns:
+- id (INT, auto-increment, primary key)
+- mood (VARCHAR)
+- message (TEXT)
+
+Insert a few sample quotes for each mood category.
+
+🔷 Notes:
+- Include code comments to explain key logic
+- No README or extra explanation is needed
