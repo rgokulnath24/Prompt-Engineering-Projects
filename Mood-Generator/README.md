@@ -46,7 +46,8 @@ See: [`prompt.txt`](./prompt.txt)
 
 | Desktop View                                                                                                           | Mobile View                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| <img width="300" height="300" alt="image" src="https://via.placeholder.com/300x300?text=Desktop+View" /> |<img width="300" height="300" alt="image" src="https://via.placeholder.com/300x300?text=Mobile+View" />
+|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/4911e4f7-c10a-4f5d-bdf9-a8414ec1e39c" />|<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ce4fde91-17aa-49ca-8c9d-1952d155f3f1" />
+
 
 ---
 
@@ -61,6 +62,9 @@ Table: `quotes`
 | message  | TEXT           | Quote associated with the mood       |
 
 ---
+##  Prompt Type
 
-## 📁 Folder Structure
+- Type: Full-stack Functional Prompt  
+- Use Case: One-shot AI-assisted Code Generation  
+- Model Used: ChatGPT 4 (o4)
 
