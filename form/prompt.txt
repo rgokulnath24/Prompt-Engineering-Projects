@@ -1,0 +1,37 @@
+Build a single-page application (SPA) using React (functional components, hooks) and Tailwind CSS.
+
+General Requirements:
+- Fully responsive design (mobile-first, scales to large screens)
+- Modern, clean UI with accessible color contrasts
+- Soft gradient background and adequate whitespace
+- Rounded corners (2xl), smooth shadows, hover and focus animations
+- All text and spacing aligned using Tailwind utility classes
+- Mobile navigation friendly
+
+Functional Requirements:
+1. Include a header with a clear title and short description.
+2. Include a simple single-page form.
+3. All forms must have real-time validation and user-friendly error messages.
+4. Form field constraints:
+   - Name: only letters/spaces, max 20 chars
+   - Email: valid format, max 25 chars
+   - Phone: digits only, max 15 chars
+5. Show a dismissible success/error alert that auto-disappears after 4 seconds.
+
+Code & Performance:
+- Use clean, maintainable, well-commented code.
+- Avoid inline styles — use only Tailwind classes.
+- Use reusable components where possible.
+- Ensure semantic HTML tags for accessibility.
+- Optimize for fast load times and minimal dependencies.
+
+Styling Details:
+- Smooth transitions for hover/focus states.
+- Buttons with gradient background and scale effect on hover.
+- Cards or sections should have consistent padding (p-4 or higher).
+- Headings with bold, varied font sizes (e.g., text-2xl for headings, text-base for body).
+
+Output:
+- Provide complete React component code with Tailwind classes applied.
+- Assume Tailwind is already configured in the project.
+- Include any state handling logic in the same component (no external state library unless necessary).
