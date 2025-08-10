@@ -1,0 +1,30 @@
+Build a modern React.js component called Timer with the following requirements:
+
+🔷 Project Summary:
+A simple clock timer that updates every second when active and can be paused/resumed via a button.
+
+🔷 Tech Stack:
+- React (functional components + hooks)
+- Tailwind CSS for styling
+
+🔷 Functional Requirements:
+- Display the current local time in `HH:MM:SS` format
+- Start updating automatically when the page loads
+- Have a "Pause" button to stop the clock, and change to "Resume" when paused
+- Clicking "Resume" should start updating the time again
+- Use `useState`, `useEffect`, and `useRef` hooks for state and timer management
+
+🔷 Styling:
+- Full-screen centered layout with gradient background
+- Large digital clock text with shadow
+- Button with different colors for Pause (red) and Resume (green)
+- Smooth hover effects and click animations
+- Mobile responsive
+
+🔷 Code Structure:
+- One single component file (Timer.jsx)
+- No extra dependencies except Tailwind and React
+
+🔷 Notes:
+- Include clear comments in the code
+- Ensure timer is properly cleared when paused or component unmounts
