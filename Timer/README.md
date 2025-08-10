@@ -41,7 +41,7 @@ See: [`prompt.txt`](./prompt.txt)
 
 | Desktop View                                                                                                           | Mobile View                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| <img width="300" height="300" alt="image" src="https://via.placeholder.com/300x300?text=Desktop+View" /> | <img width="300" height="300" alt="image" src="https://via.placeholder.com/300x300?text=Mobile+View" />
+|<img width="300" height="300" alt="Screenshot 2025-08-10 230920" src="https://github.com/user-attachments/assets/419224a7-feea-4684-a5dd-e22e39e81642" />| <img width="300" height="300" alt="Screenshot 2025-08-10 230936" src="https://github.com/user-attachments/assets/1db59988-6978-43e3-9738-fccd78691bcd" />
 
 ---
 
