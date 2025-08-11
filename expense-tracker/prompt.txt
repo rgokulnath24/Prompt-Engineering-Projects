@@ -1,0 +1,11 @@
+Build a complete React + Tailwind CSS Expense Tracker app.
+Features:
+- Add, edit, delete transactions
+- Track balance, income, expenses
+- Store data in localStorage
+- Responsive UI
+- Separate code into components:
+  Header.jsx, Balance.jsx, IncomeExpenses.jsx, TransactionList.jsx, TransactionItem.jsx, AddTransaction.jsx
+- Use Global Context API for state management
+- Include App.jsx, main.jsx, and index.css
+- Tailwind classes for styling
