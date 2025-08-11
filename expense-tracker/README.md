@@ -43,7 +43,8 @@ See: [`prompt.txt`](./prompt.txt)
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| <img width="300" height="300" alt="Expense Tracker Desktop" src="https://github.com/user-attachments/assets/example-desktop.png" /> | <img width="300" height="300" alt="Expense Tracker Mobile" src="https://github.com/user-attachments/assets/example-mobile.png" /> |
+| <img width="300" height="300" alt="Screenshot 2025-08-11 231152" src="https://github.com/user-attachments/assets/8d220c03-c7cf-4291-9197-674bc7e07f16" />| <img width="300" height="300" alt="Screenshot 2025-08-11 231204" src="https://github.com/user-attachments/assets/744ece6e-75eb-44e3-b58c-0c2a48c866c2" />
+ |
 
 ---
 
