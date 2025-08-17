@@ -1,0 +1,13 @@
+Generate a complete, copy-paste-ready **Movie Showcase** website with separate files. Keep the prompt short and professional.
+
+Project: BookMyShow-style movie listing (20 movies: Tamil, Telugu, English)
+
+Requirements:
+- Output separate files only: index.html, styles/style.css, scripts/data.js, scripts/app.js, README.md, prompt.txt.
+- Layout: responsive grid, unique modern design, accessible HTML.
+- Features: search, language filters (All/Tamil/Telugu/English), theme toggler (light/dark), result count, "Book" and "Details" actions (client-side only).
+- Movies: exactly 20 items across the three languages. Use only **tested working online poster URLs**; remove any broken links. Provide an automatic fallback image in code.
+- Images must be lazy-loaded and validated before insertion (do not include links that 404).
+- JS: modular, no frameworks, minimal dependencies, include comments, implement debounce for search, persistent theme via localStorage.
+- CSS: separated, mobile-first, flexible cards, hover/active states, and accessible focus styles.
+
