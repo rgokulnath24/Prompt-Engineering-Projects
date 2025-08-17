@@ -1,4 +1,4 @@
-# 🎬 Movie Booking Website (AI-Prompt Engineered)
+#  Movie Booking Website (AI-Prompt Engineered)
 
 A simple, responsive movie listing website inspired by BookMyShow. Users can browse movies across Tamil, Telugu, and English languages, search for a specific movie, and toggle between light/dark themes. Built entirely with HTML, CSS, and JavaScript, this project demonstrates how prompt engineering can create a functional, visually appealing frontend web app.
 
@@ -44,7 +44,8 @@ See: [`prompt.txt`](./prompt.txt)
 
 | Desktop View                                                                                                           | Mobile View                                                                                                          |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-|<img width="300" height="300" alt="desktop" src="https://github.com/user-attachments/assets/your-desktop-screenshot-id" />|<img width="300" height="300" alt="mobile" src="https://github.com/user-attachments/assets/your-mobile-screenshot-id" />|
+|<img width="300" height="300" alt="Screenshot 2025-08-17 225000" src="https://github.com/user-attachments/assets/f1078666-2d62-419d-a228-5fe771351f82" />|<img width="300" height="300" alt="Screenshot 2025-08-17 225012" src="https://github.com/user-attachments/assets/df324e32-3206-4d60-a317-6421e73003d8" />
+|
 
 ---
 
